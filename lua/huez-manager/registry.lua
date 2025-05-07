@@ -387,6 +387,10 @@ R = {
     pkgname = "vague",
     colorscheme = "vague",
   },
+  ["gruber-darker"] = {
+    url = "https://github.com/blazkowolf/gruber-darker.nvim",
+    pkgname = "gruber-darker",
+  },
 }
 
 return R
